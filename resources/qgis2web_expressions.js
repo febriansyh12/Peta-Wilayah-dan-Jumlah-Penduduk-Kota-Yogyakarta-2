@@ -766,7 +766,7 @@ function fnc_project_color(values, context) {
 
 
 
-function exp_label_Yogyakarta_Centroid_2_eval_expression(context) {
+function exp_label_Yogyakarta_Centroid_3_eval_expression(context) {
     // WADMKC || '\n' || Join_Luas || 'ha' || '\n' || Join_Pendu || 'ribu orang'
 
     var feature = context.feature;
